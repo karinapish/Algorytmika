@@ -20,7 +20,7 @@ using namespace std;
 			}
 		}
 		//sr=(l+p)/2;
-		cout << "Podana liczba nie wystêpuje w zbiorze :((";
+		cout << "Podana liczba nie wystÄ™puje w zbiorze :((";
 		return -1;
 	}
 	
